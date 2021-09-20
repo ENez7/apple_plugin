@@ -1,0 +1,6 @@
+name: Gold_Apple_Zombie_Dead
+version: ${project.version}
+main: com.enirquedev.goldapplezombiedead.GoldAppleZombieDead
+api-version: 1.17
+authors: [ MeAndTheBois ]
+description: When you kill a zombie, automatically you'll receive a golden apple
